@@ -13,7 +13,7 @@ It includes:
 
 The repo is structured with three main folders:
 
-- `/` – user-facing frontend
+- `/User` – user-facing frontend
 - `/admin` – admin dashboard frontend
 - `/backend` – Node/Express API
 - Root – shared scripts & dev tools (`concurrently` to run all at once)
@@ -414,4 +414,5 @@ Google OAuth
 
 Secure patterns (rate limiting, hashed tokens, session validation)
 
-Clone it, configure .env, connect MongoDB, add your branding & features, and you have a solid, secure auth foundation for any MERN project.
+Clone it, configure .env, connect MongoDB, add your branding & features, and you have a solid, secure auth foundation for any MERN project.#   a u t h - f l o w  
+ 
